@@ -2,8 +2,9 @@
 ## Introducción
 El presente proyecto consiste en una aplicación web para organizar tareas, conocidas como To Do List, el proyecto esta enteramente construido en Python
 ## Contribuyentes
-> Matthos Cahui Fabrizio Miguel.
-> Cruz Chaiña Ancel Alain Fernando.
+
+  1. Matthos Cahui, Fabrizio Miguel.
+  2. Cruz Chaiña, Ancel Alain Fernando.
 
 ## Software Requerido
 > Para el proyecto se utilizaron las siguientes tecnologías:
