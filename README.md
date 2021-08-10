@@ -1,9 +1,9 @@
 # APLICACION WEB (TO DO LIST) CON DJANGO 
 ## Introducción
-El presente proyecto consiste en una aplicación web para organizar tareas, conocidas como To Do List, el proyecto esta enteramente construido en Python
+El presente proyecto se realizo con la finalidad de mostrar los conocimientos adquiridos durante el curso de **Desarrollo Basado en Plataformas**. El proyecto desarrollado consiste en una aplicación web para organizar tareas o notas, conocidas como To Do List, el cual tiene como objetivo proporcionar una manera simple y comoda para crear y organizar tareas.
 ## Contribuyentes
 
-  1. Matthos Cahui, Fabrizio Miguel.
+  1. Mattos Cahui, Fabrizio Miguel.
   2. Cruz Chaiña, Ancel Alain Fernando.
 
 ## Software Requerido
